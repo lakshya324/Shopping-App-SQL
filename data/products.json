@@ -1,0 +1,16 @@
+[
+    {
+        "id": "12345",
+        "title": "Lakshya's Book",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:5120/1*42ebJizcUtZBNIZPmmMZ5Q.jpeg",
+        "description": "It is a Nice Book. Must Buy...",
+        "price": "15"
+    },
+    {
+        "id": "0.8439129877734641",
+        "title": "Lakshya's Camera",
+        "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg",
+        "description": "It is a Nice Camera. You will love it...",
+        "price": "100"
+    }
+]
